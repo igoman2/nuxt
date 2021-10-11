@@ -1,0 +1,44 @@
+[
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/Users/han/Desktop/nuxt/learn-nuxt/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_65123872"
+  },
+  {
+    "name": "detail",
+    "path": "/detail",
+    "component": "/Users/han/Desktop/nuxt/learn-nuxt/pages/detail.vue",
+    "chunkName": "pages/detail",
+    "_name": "_51558e90"
+  },
+  {
+    "name": "main",
+    "path": "/main",
+    "component": "/Users/han/Desktop/nuxt/learn-nuxt/pages/main.vue",
+    "chunkName": "pages/main",
+    "_name": "_66db0c40"
+  },
+  {
+    "name": "sample",
+    "path": "/sample",
+    "component": "/Users/han/Desktop/nuxt/learn-nuxt/pages/sample.vue",
+    "chunkName": "pages/sample",
+    "_name": "_1da24191"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id?",
+    "component": "/Users/han/Desktop/nuxt/learn-nuxt/pages/product/_id.vue",
+    "chunkName": "pages/product/_id",
+    "_name": "_0778057a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/han/Desktop/nuxt/learn-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b19cc38a"
+  }
+]
